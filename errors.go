@@ -1,4 +1,4 @@
-package nfigure
+package commonerrors
 
 import (
 	"github.com/pkg/errors"
